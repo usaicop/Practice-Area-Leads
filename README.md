@@ -12,7 +12,7 @@ Welcome Practice Area Leads! We are thrilled to have your dedication, expertise,
 
 ## How do I join the AI CoP’s organization?
 
-To join the organization, the AI CoP team must invite you to the organization. Please contact [ai-cop-support-team@gsa.gov](mailto:ai-cop-support-team@gsa.gov) if you have not received an invitation to the organization. Then you must click the invitation link in the email.
+To join the organization, the AI CoP team must invite you to the organization. Please contact [AICoP@gsa.gov](mailto:AICoP@gsa.gov) if you have not received an invitation to the organization. Then you must click the invitation link in the email.
 
 ## How do I create a new repository?
 
