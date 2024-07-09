@@ -54,4 +54,4 @@ Note: If you want to close the discussion, you may navigate to the discussion an
 - Please use appropriate tags when you start discussions within the repository. This will help in categorizing and filtering content effectively.
 - Regularly review and update the structure based on community feedback and evolving needs to ensure it remains relevant and useful.
 
-For more information, contact the [AI CoP Support Team](mailto:ai-cop-support-team@gsa.gov).
+For more information, contact the [AI CoP Support Team](mailto:AICoP@gsa.gov).
